@@ -9,5 +9,6 @@ const TOOLBAR_OPTIONS = [
 	["image", "blockquote", "code-block"],
 	["clean"],
 ];
-
+const hello_moto = 0;
+console.log(hello_moto);
 export default TOOLBAR_OPTIONS;
